@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hightop/static/css/main.eda5e1a0.css",
-    "main.js": "/hightop/static/js/main.c154024f.js",
+    "main.js": "/hightop/static/js/main.852b269f.js",
     "static/media/bg3.jpg": "/hightop/static/media/bg3.1ac2f91eb2561d2281ef.jpg",
     "static/media/showcase-l.jpg": "/hightop/static/media/showcase-l.ee7bf84eef1223447cf6.jpg",
     "static/media/slide-3.jpg": "/hightop/static/media/slide-3.bd9407f7bec7f425d12c.jpg",
@@ -19,10 +19,10 @@
     "static/media/hightop-side-logo.png": "/hightop/static/media/hightop-side-logo.446ee5adefbb7686c505.png",
     "index.html": "/hightop/index.html",
     "main.eda5e1a0.css.map": "/hightop/static/css/main.eda5e1a0.css.map",
-    "main.c154024f.js.map": "/hightop/static/js/main.c154024f.js.map"
+    "main.852b269f.js.map": "/hightop/static/js/main.852b269f.js.map"
   },
   "entrypoints": [
     "static/css/main.eda5e1a0.css",
-    "static/js/main.c154024f.js"
+    "static/js/main.852b269f.js"
   ]
 }
