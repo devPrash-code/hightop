@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hightop/static/css/main.eda5e1a0.css",
+    "main.js": "/hightop/static/js/main.c154024f.js",
+    "static/media/bg3.jpg": "/hightop/static/media/bg3.1ac2f91eb2561d2281ef.jpg",
+    "static/media/showcase-l.jpg": "/hightop/static/media/showcase-l.ee7bf84eef1223447cf6.jpg",
+    "static/media/slide-3.jpg": "/hightop/static/media/slide-3.bd9407f7bec7f425d12c.jpg",
+    "static/media/slide-1.jpg": "/hightop/static/media/slide-1.8aefeee4142f08d140b0.jpg",
+    "static/media/showcase-r.jpg": "/hightop/static/media/showcase-r.9e1af99d174228dedb00.jpg",
+    "static/media/prod-5.png": "/hightop/static/media/prod-5.2a26340986c1ea7e701e.png",
+    "static/media/slide-2.jpg": "/hightop/static/media/slide-2.5bd3252705d46c326d5e.jpg",
+    "static/media/prod-8.png": "/hightop/static/media/prod-8.0b361c069aa2dfc4ecbd.png",
+    "static/media/prod-4.png": "/hightop/static/media/prod-4.63050436266726192f2a.png",
+    "static/media/prod-6.png": "/hightop/static/media/prod-6.b4448e2d57e999472217.png",
+    "static/media/prod-2.png": "/hightop/static/media/prod-2.12a73085fb23d513c7c7.png",
+    "static/media/prod-7.png": "/hightop/static/media/prod-7.2d74003fee3674ca7d88.png",
+    "static/media/prod-3.png": "/hightop/static/media/prod-3.454eb3519a4a7ecc8349.png",
+    "static/media/prod-1.png": "/hightop/static/media/prod-1.a26f886798e8ec9b9030.png",
+    "static/media/hightop-side-logo.png": "/hightop/static/media/hightop-side-logo.446ee5adefbb7686c505.png",
+    "index.html": "/hightop/index.html",
+    "main.eda5e1a0.css.map": "/hightop/static/css/main.eda5e1a0.css.map",
+    "main.c154024f.js.map": "/hightop/static/js/main.c154024f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda5e1a0.css",
+    "static/js/main.c154024f.js"
+  ]
+}
