@@ -1,0 +1,23 @@
+
+
+.login-page {
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    padding: 60px 0;
+}
+.login-page .container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.login-page .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-page .row .col-md-6 {
+    width: 50%;
+}

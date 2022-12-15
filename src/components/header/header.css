@@ -1,0 +1,93 @@
+
+.header {
+    width: 100%;
+    height: auto;
+    z-index: 8;
+    max-width: 100%;
+    padding: 18px 0;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 15px #0000001f;
+}
+.header .container {
+    width: 100%;
+    max-width: 1640px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.header .container .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header .container .row .col-md-4 { width: 35%; }
+.header .container .row .col-md-8 { width: 65%; }
+.header .container .row .col-md-4 .logo-img {
+    width: 100%;
+}
+.header .container .row .col-md-4 .logo-img img {
+    width: 100%;
+    max-width: 130px;
+}
+.header .container .row .col-md-8 {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.header .container .row .col-md-8 nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    cursor: pointer;
+}
+.header .container .row .col-md-8 nav ul li {
+    list-style: none;
+}
+.header .container .row .col-md-8 nav.main-nav .close,
+.header .container .row .col-md-8 nav.main-nav ul li {
+    padding: 16px 38px;
+}
+.header .container .row .col-md-8 nav.sub-nav ul li {
+    margin-left: 28px;
+}
+.header .container .row .col-md-8 nav ul li a {
+    text-decoration: none;
+    color: #111010;
+}
+.header .container .row .col-md-8 nav.main-nav .close,
+.header .container .row .col-md-8 nav ul li.menu { display: none; }
+.header .container .row .col-md-8 nav.sub-nav ul li img {
+    width: 25px;
+}
+@media screen and (max-width: 768px) {
+    .header .container .row .col-md-8 nav.main-nav .close { display: block; }
+    .header .container .row .col-md-8 nav.main-nav {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #0000001f;
+        z-index: 9;
+    }
+    .header .container .row .col-md-8 nav.active-nav { display: flex; }
+    .header .container .row .col-md-8 nav.main-nav .close {
+        position: absolute;
+        top: 62px;
+        right: 42px;
+    }
+    .header .container .row .col-md-8 nav.main-nav .close img {
+        width: 35px;
+    }
+    .header .container .row .col-md-8 nav.main-nav ul {
+        background-color: #ffffff;
+        flex-flow: column;
+        justify-content: center;
+        text-align: center;
+        width: 90%;
+        height: 90vh;
+    }
+    .header .container .row .col-md-8 nav ul li.menu { display: block; }
+}
